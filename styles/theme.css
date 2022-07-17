@@ -1,0 +1,59 @@
+.theme-default {
+	--clr-font: #F9F9F9;
+	--clr-font-btn: #F9F9F9;
+	--clr-font-btn-result: #F9F9F9;
+
+	--bg-app: hsl(222, 26%, 31%);
+	--bg-result: hsl(224, 36%, 15%);
+	--bg-keypad: hsl(223, 31%, 20%);
+
+	--bg-key-result: hsl(6, 63%, 50%);
+	--key-shadow-result: hsl(6, 70%, 34%);
+
+	--clr-font-key: hsl(221, 14%, 31%);
+	--bg-btn-key: hsl(30, 25%, 89%);
+	--btn-key-shadow: hsl(28, 16%, 65%);
+
+	--bg-btn-reset: hsl(225, 21%, 49%);
+	--btn-reset-shadow: hsl(224, 28%, 35%);
+}
+
+.theme-light {
+	--clr-font: hsl(60, 10%, 19%);
+	--clr-font-btn: #F9F9F9;
+	--clr-font-btn-result: #F9F9F9;
+
+	--bg-app: hsl(0, 0%, 90%);
+	--bg-result: hsl(0, 0%, 93%);
+	--bg-keypad: hsl(0, 5%, 81%);
+
+	--bg-key-result: hsl(25, 98%, 40%);
+	--key-shadow-result: hsl(25, 99%, 27%);
+
+	--clr-font-key: hsl(60, 10%, 19%);
+	--bg-btn-key: hsl(30, 25%, 89%);
+	--btn-key-shadow: hsl(28, 16%, 65%);
+
+	--bg-btn-reset: hsl(185, 42%, 37%);
+	--btn-reset-shadow: hsl(185, 58%, 25%);
+}
+
+.theme-purple {
+	--clr-font: hsl(52, 100%, 62%);
+	--clr-font-btn: #F9F9F9;
+	--clr-font-btn-result: hsl(198, 20%, 13%);
+
+	--bg-app: hsl(268, 75%, 9%);
+	--bg-result: hsl(268, 71%, 12%);
+	--bg-keypad: hsl(268, 71%, 12%);
+
+	--bg-key-result: hsl(176, 100%, 44%);
+	--key-shadow-result: hsl(177, 92%, 70%);
+
+	--clr-font-key: hsl(52, 100%, 62%);
+	--bg-btn-key: hsl(268, 47%, 21%);
+	--btn-key-shadow: hsl(290, 70%, 36%);
+
+	--bg-btn-reset: hsl(281, 89%, 26%);
+	--btn-reset-shadow: hsl(285, 91%, 52%);
+}
